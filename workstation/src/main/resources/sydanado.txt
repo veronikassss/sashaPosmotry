@@ -1,0 +1,5 @@
+Andrew,19,Moscow
+Nasty,24,Kasan
+Oleg,28,Novosibirsk
+Nady,19,Kamchatka
+Pop,56,Astr

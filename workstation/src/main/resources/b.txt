@@ -1,0 +1,3 @@
+Nady,19,Kamchatka
+Oleg,28,Novosibirsk
+Pop,56,Astr
